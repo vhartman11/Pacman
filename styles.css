@@ -1,0 +1,9 @@
+.button {
+    background-color: #8FBCBF;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: FreeMono, "Andale Mono", monospace, "Times New Roman", serif, Arial, sans-serif;
+    padding: 10px;
+    border-radius: 50px;
+}
